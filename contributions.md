@@ -1,0 +1,1 @@
+My name is William Hannah, and I am happy to be here. Looking for IAM roles first then cloud security. Your girlfriend, babymomma, and sister call me Big Daddy.

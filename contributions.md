@@ -8,3 +8,5 @@ My name is Ahmad Qadafi. I am trained as a statistician, social science research
 
 My name is Leland Kent and I am a data scientist. I am learning this for the love of the game. 
 
+This Bio is for Alex Felder, I am going to get this to work even if it kills me.. 
+I will be taking AND PASS the SAA exam by July 15th. Being realistic ( August of 2026) and working on Terraform Cert.

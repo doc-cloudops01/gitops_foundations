@@ -1,1 +1,3 @@
 My name is William Hannah, and I am happy to be here. Looking for IAM roles first then cloud security. Your girlfriend, babymomma, and sister call me Big Daddy.
+
+My name is Ahmad Qadafi. I am trained as a statistician, social science researcher and data analyst living Phoenix. I am learning DevOps as part of a career pivot. I enjoy writing, urban exploration and video games. 

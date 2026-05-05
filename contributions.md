@@ -1,1 +1,1 @@
-My name is Jhony Herrers, but you can call me Jay. I'm very pleased to be here! I'm looking master Terraform, AWS, and GCP. The Chicas call me Papi, the Ling Lings call me Senpai. 
+My name is Jhony Herrera, but you can call me Jay. I'm very pleased to be here! I'm looking master Terraform, AWS, and GCP. The Chicas call me Papi, the Ling Lings call me Senpai. 

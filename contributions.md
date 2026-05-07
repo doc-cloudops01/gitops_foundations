@@ -12,3 +12,5 @@ This Bio is for Alex Felder, I am going to get this to work even if it kills me.
 I will be taking AND PASS the SAA exam by July 15th. Being realistic ( August of 2026) and working on Terraform Cert.
 
 Joey Harris. I am here for the money.
+
+James Kent: I am here to grow in my skills that will help me be financially and geographically free.

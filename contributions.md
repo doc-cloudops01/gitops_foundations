@@ -4,8 +4,6 @@ My name is Kevin Willocks.  I want to pivot into a cloud role because I am tired
 
 My name is Ahmad Qadafi. I am trained as a statistician, social science researcher and data analyst living Phoenix. I am learning DevOps as part of a career pivot. I enjoy writing, urban exploration and video games. 
 
-My name is Ahmad Qadafi. I am trained as a statistician, social science researcher and data analyst living Phoenix. I am learning DevOps as part of a career pivot. I enjoy writing, urban exploration and video games. 
-
 My name is Leland Kent and I am a data scientist. I am learning this for the love of the game. 
 
 This Bio is for Alex Felder, I am going to get this to work even if it kills me.. 
